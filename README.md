@@ -1,6 +1,6 @@
 ## Notes
 
-#### Older React Version
+#### Live Preview : https://arvind-maddala.github.io/comfysloth/
 
 ```
 "react": "^16.13.1",
